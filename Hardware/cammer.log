@@ -1,0 +1,26 @@
+2023-12-29 14:00:23,565 - cammer_logger - INFO - Running CAMmer
+2023-12-29 14:00:23,565 - cammer_logger - INFO - ['-l', 'F.Cu,B.Cu,F.Paste,B.Paste,F.Silkscreen,B.Silkscreen,F.Mask,B.Mask', '-e', 'Edge.Cuts,User.Comments']
+2023-12-29 14:00:23,565 - cammer_logger - INFO - CAMMER START: 2023-12-29T14:00:23.565151
+2023-12-29 14:00:24,706 - cammer_logger - INFO - 
+START: 2023-12-29T14:00:23.565151
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GTL
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-F_Cu.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GTL
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GBL
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-B_Cu.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GBL
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GTP
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-F_Paste.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GTP
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GBP
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-B_Paste.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GBP
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GTO
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-F_Silkscreen.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GTO
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GBO
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-B_Silkscreen.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GBO
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GTS
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-F_Mask.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GTS
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GBS
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-B_Mask.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GBS
+Deleting existing C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GKO
+Renaming C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example-Edge_Cuts.gbr to C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\SparkFun_RGB_CBI_Example.GKO
+Drill report: C:\Users\nathan.seidle\Dropbox\Projects\SparkFun_RGB_CBI_Example\Hardware\drill_report.rpt
+
+2023-12-29 14:00:24,735 - cammer_logger - INFO - CAMmer complete
