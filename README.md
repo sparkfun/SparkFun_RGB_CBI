@@ -1,9 +1,10 @@
 SparkFun RGB Addressable CBI LED 5mm - Right Angle
 ========================================
 
-[![SparkFun RGB Addressable CBI LED 5mm - Right Angle](URL for picture of part)](https://www.sparkfun.com/products/23649)
+[![SparkFun RGB Addressable CBI LED 5mm - Right Angle](https://cdn.sparkfun.com/r/600-600/assets/parts/2/3/9/7/3/COM-23649_SparkFun_RGB_Addressable_CBI_-_3.jpg)](https://www.sparkfun.com/products/23649)
 
 [*SparkFun RGB Addressable CBI LED 5mm - Right Angle (COM-23649)*](https://www.sparkfun.com/products/23649)
+
 
 This is a right angle 5mm addressable LED. It sounds boring, but at the time of writing, *this is the first one in the world*.
 
